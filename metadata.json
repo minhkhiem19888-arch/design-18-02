@@ -1,0 +1,5 @@
+{
+  "name": "design-18/2",
+  "description": "An AI-powered application that generates two distinct facade design options for a user's land plot based on their name, date of birth, and an uploaded photo. It includes brief Feng Shui suggestions and detailed descriptions for each design.",
+  "requestFramePermissions": []
+}
